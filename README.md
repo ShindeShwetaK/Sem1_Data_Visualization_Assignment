@@ -39,7 +39,7 @@
 ## Assignment 12
 - Flask
 - This report discusses the design and implementation of a Flask-based web application for managing blog posts.
-- 
+  
 ## Assignment 13
 - Dental Report using Machine Learning.
 - This report examines a dataset of dental visits using machine learning techniques to identify patterns and relationships.
